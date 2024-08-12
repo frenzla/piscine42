@@ -1,8 +1,8 @@
 ![42banner](https://github.com/user-attachments/assets/73fcea73-911c-41e9-9129-11c205e6f236)
 # My Piscine @42
 
-These are all the exercises I validated during my piscine at 42 (March 2024).
-I have included all subjects of the piscine (even the one not completed).
+These are all the exercises I validated during my Piscine at 42 (March 2024).
+I have included all subjects of the Piscine (even the one not completed).
 
 > Disclaimer: the code in this repo has been checked and approved by 2 peers (each module) and by the moulinette (automated verification system of 42) but is probably not fault proof!
 
@@ -21,7 +21,7 @@ Part of my coding mastering journey 🥷
 - Methodology that develops both tech & life skills.
 - The 42 cursus is free for whoever is approved in its selection process.
 
-The so-called "Piscine", a 28-day C programming bootcamp. It is the last stage of the selection process for becoming a 42's student.
+The so-called "Piscine" is a 28-day C programming bootcamp. It is the last stage of the selection process for becoming a 42's student and undertake the full programme.
 
 # Skills developed at the Piscine
 
@@ -41,7 +41,7 @@ The so-called "Piscine", a 28-day C programming bootcamp. It is the last stage o
 
 ### Soft-skills
 	  Self-learning and proactiveness
-		At 42, self-learning is at the core of its peer to peer learning methodology. There
+		At 42, self-learning is at the core of the peer to peer learning methodology. There
 		are no teachers whatsoever; the learning process is based on googling, enquiring
 		your classmates, and empirical knowledge, each student learning at their own pace.
 
@@ -54,5 +54,8 @@ The so-called "Piscine", a 28-day C programming bootcamp. It is the last stage o
 	  Time management and resiliency
 		The school is open 24/7. Thus, the so-called "pisciners" are free to work whenever
 		they want, which demands excellent time management skills and resiliency for not
-		"drowning" amid the massive load of work demanded by the non-stop 26-day program.
+		"drowning" amid the massive load of work demanded by the non-stop 28-day program.
 
+# Credits
+
+Credits to [@appinha](https://github.com/appinha) for inspiration & part of this README ;-) Keep up the good work!
